@@ -6,12 +6,12 @@
         composer install ( or composer update )
         cp .env.example .env
         php artisan key:generate
-
-
+        
 <h1>2.How to Connect the Application to the Database</h1>
 
-   - Download the hotel.sql file and upload it to your phpMyAdmin.
-   - Change the database name to in .env file to (hotel).
+    - Download the hotel.sql file and upload it to your phpMyAdmin.
+    - Change the database name to in .env file to (hotel).
+
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
