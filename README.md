@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 <h1>1.How to Run the Application</h1>
 
-    - Download the project ( as zipe file ) and after unzipping the file run thess command in ur terminal
+    - Download the project ( as a zip file ) and after unzipping the file, run these commands in ur terminal.
     
         composer install ( or composer update )
         cp .env.example .env
